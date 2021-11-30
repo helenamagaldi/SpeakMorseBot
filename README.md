@@ -1,2 +1,4 @@
 # project_cesar
-- Project for technical challenge
+- Project designed for technical challenge
+
+November/December 2021
