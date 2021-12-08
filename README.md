@@ -1,12 +1,15 @@
 # SpeakMorseBot
-Project developed in order to create a Telegram Bot for easily translating English into Morse Code.
+Project developed in order to create a Telegram Bot for easily translating any latin alphabet language into Morse Code.
 
-https://t.me/SpeakMorseBot
+## Setup environment
 
+Create project's environment variable
 
-Translation Guide:
+```bash
+    export BOT_TOKEN=<your token here>
+```
 
-![image](https://user-images.githubusercontent.com/44007002/144298565-f84ea4d5-3d73-4da1-a085-93e7b2bd95b3.png)
+https://t.me/SpeakMorseBot/home/helenamagaldi/SpeakMorseBot
 
 
 Source
@@ -14,9 +17,19 @@ Source
  https://www.istockphoto.com/br/vetor/c%C3%B3digo-morse-letras-e-n%C3%BAmeros-gm834605332-135753933
 
 
-Telegram Bot API:
+Telegram Bot API
 
 https://core.telegram.org/bots/api
+
+
+Flask Documentation
+
+https://flask.palletsprojects.com
+
+
+Future implementations
+[] Latin Alphabets -> Morse
+
 
 Developed by Helena Magaldi
 
