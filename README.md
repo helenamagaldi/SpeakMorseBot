@@ -23,8 +23,7 @@ https://flask.palletsprojects.com
 
 
 Future implementations
-[ ] Database Implementation
-[ ]
+- Database
 
 
 Developed by Helena Magaldi
