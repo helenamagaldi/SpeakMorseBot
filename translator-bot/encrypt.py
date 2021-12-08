@@ -11,11 +11,3 @@ def encrypt(message):
 
 	return cipher
 
-def main():
-	message = "GEEKS-FOR-GEEKS"
-	result = encrypt(message.upper())
-	print (result)
-
-
-if __name__ == '__main__':
-	main()
