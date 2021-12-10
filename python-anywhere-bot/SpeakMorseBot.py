@@ -7,7 +7,6 @@ from decrypt import decrypt
 
 app = Flask(__name__)
 
-# your Telegram Bot Token here
 
 @app.route("/decrypt", methods=["GET"])
 def decrypt_message():
