@@ -4,10 +4,8 @@ Project developed in order to create a Telegram Bot for easily translating any l
 https://t.me/SpeakMorseBot/home/helenamagaldi/SpeakMorseBot
 
 
-## Setup environment
-
-<Bot available>
-<local_project represents the same project, but outside pythonanywhere environment> (not yet available: future implementation)
+- Bot available
+- local_project represents the same project, but outside pythonanywhere environment (not yet available: future implementation)
 
 ## Commands available:
 ```
