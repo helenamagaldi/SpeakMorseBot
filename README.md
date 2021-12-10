@@ -3,6 +3,9 @@ Project developed in order to create a Telegram Bot for easily translating any l
 
 https://t.me/SpeakMorseBot/home/helenamagaldi/SpeakMorseBot
 
+![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 - Bot available
 - local_project represents the same project, but outside pythonanywhere environment (not yet available: future implementation)
